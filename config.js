@@ -9,12 +9,12 @@
 global.prefa = ['','!','.',',','🐸','🗿']
 global.owner = ['923360679553']
 global.ownMain = '923360679553'
-global.NamaOwner = 'ZAINU-MD' //ZAINU-MD
+global.NamaOwner = 'ZAINU-MD' //MUNAZA-MD
 global.sessionName = 'session'
 global.connect = true // for qr code do this false
-global.namabot = 'ZAINU-MD' //don't change
-global.author = 'ZAINU-MD' //don't change
-global.packname = 'ZAINU-MD' //sticker name
+global.namabot = 'MUNAZA-MD' //don't change
+global.author = 'MUNAZA-MD' //don't change
+global.packname = 'MUNAZA-MD' //sticker name
 global.domain = '' // Isi Domain Lu
 global.apikey = 'ptla_F9N0OMtFjU0fbiO04EJiPUcw3XaPgMUmJZA6cAk3zt8' // Isi Apikey Plta Lu
 global.capikey = 'ptlc_4SNLfuJidXDSWPx1LeIdY3TrFrcTaUcWqcJ92uORpTV' // Isi Apikey Pltc Lu
@@ -29,7 +29,7 @@ global.mess = { // Don't change this
 ingroup: 'This feature can only be used in groups.',
 admin: 'This feature is specifically for group admins.',
 notadmin: "The bot must be an admin first",
-owner: 'You are not owner or ZAINU-MD.',
+owner: 'You are not owner or MUNAZA-MD.',
 premium: 'You are not a premium user or Tech God.',
 seller: 'This feature can only be used by resellers and tech god.',
 usingsetpp: `Setpp can only be used by the owner, do you think I'm stupid?`,
